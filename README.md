@@ -42,7 +42,7 @@ uvicorn-0.34.0
 
 ## Установка
 
-1. Клонируйте данный репозиторий к себе на локальную машину: git clone https://github.com/valyaplotnikova/OrgManager.git
+1. Клонируйте данный репозиторий к себе на локальную машину: git clone https://github.com/valyaplotnikova/ImageDescription.git
 
 2. В файле .env.example подставьте свои переменные окружения и переименуйте файлы в .env
 
